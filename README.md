@@ -1,2 +1,2 @@
 # My-first-project
-This project is free to modifying
+A simple HTML project created to practice basic web development skills.
